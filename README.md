@@ -2,14 +2,15 @@
 
 Client part:
 
-React JS
-Axios
-MobX
+- React JS
+- 
+- MobX
 
 
 Server part:
 
-Node JS
-Express
-Sequelize
+- Node JS
+- Express
+- Sequelize
+- 
 Database: PostgreSQL
